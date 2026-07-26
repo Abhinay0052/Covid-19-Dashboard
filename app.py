@@ -122,8 +122,8 @@ with tab4:
         "Confirmed", "Deaths", "Recovered", "Active", 
         "New cases", "New deaths", "New recovered", 
         "Deaths / 100 Cases", "Recovered / 100 Cases", 
-        "1 week change", "1 week % increase"
-    ]import pandas as pd
+        "1 week change", "1 week % increas]
+    import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
